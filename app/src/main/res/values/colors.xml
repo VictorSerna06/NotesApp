@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores de tema claro -->
+    <color name="primary">#2B2B2B</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="secondary">#E0E0E0</color>
+    <color name="on_secondary">#212121</color>
+
+    <color name="background">#FAFAFA</color>
+    <color name="on_background">#212121</color>
+
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#212121</color>
+
+    <!-- Colores de tema oscuro -->
+    <color name="primary_dark">#E0E0E0</color>
+    <color name="on_primary_dark">#212121</color>
+
+    <color name="secondary_dark">#424242</color>
+    <color name="on_secondary_dark">#E0E0E0</color>
+
+    <color name="background_dark">#121212</color>
+    <color name="on_background_dark">#E0E0E0</color>
+
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="on_surface_dark">#E0E0E0</color>
+
+    <!-- Colores de estado de UI -->
+    <color name="success">#2E7D32</color>
+
+    <color name="warning">#F9A825</color>
+
+    <color name="error">#C62828</color>
+    <color name="error_dark">#EF5350</color>
+
+    <color name="info">#4FC3F7</color>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+
+    <!-- Activity -->
+    <string name="my_notes">Mis notas</string>
+    <string name="search">Buscar</string>
+    <string name="open_drawer">Abrir menú</string>
+    <string name="close_drawer">Cerrar menú</string>
+    <string name="search_note">Buscar nota...</string>
+
+    <!-- HomeFragment -->
+    <string name="empty_state_title">Aún no tienes notas</string>
+    <string name="empty_state_subtitle">Crea tu primera nota para comenzar</string>
+    <string name="add_note">Agregar nota</string>
+    <string name="no_results">Sin resultados</string>
+
+    <!-- Item -->
+    <string name="title_note">Título de la nota</string>
+    <string name="content_note">Contenido de la nota</string>
+    <string name="completed">Nota completada</string>
+    <string name="pending">Nota pendiente</string>
+    <string name="date_note">Fecha</string>
+
+    <!-- AlertDialog -->
+    <string name="update_note">Actualizar nota</string>
+    <string name="add_new_note">Agregar una nueva nota</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="field_title_empty">Ingresa un título</string>
+    <string name="field_content_empty">Ingresa una descripción</string>
+
+    <!-- Snackbar -->
+    <string name="message_delete">Nota eliminada correctamente</string>
+    <string name="undo">Deshacer</string>
+</resources>

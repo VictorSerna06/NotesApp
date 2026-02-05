@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Toolbar -->
+    <style name="Toolbar">
+        <item name="android:background">?attr/colorPrimary</item>
+        <item name="titleTextColor">?attr/colorOnPrimary</item>
+        <item name="titleCentered">true</item>
+    </style>
+
+    <!-- Title -->
+    <style name="Title">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">?attr/colorOnBackground</item>
+    </style>
+
+    <!-- Content -->
+    <style name="Content">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">?attr/colorOnBackground</item>
+    </style>
+
+    <!-- FloatingActionButton -->
+    <style name="FloatingActionButton">
+        <item name="android:backgroundTint">?attr/colorPrimary</item>
+        <item name="tint">?attr/colorOnPrimary</item>
+    </style>
+
+    <!-- CardView -->
+    <style name="CardViewItem" parent="Widget.MaterialComponents.CardView">
+        <item name="cardElevation">4dp</item>
+        <item name="cardCornerRadius">10dp</item>
+        <item name="cardBackgroundColor">?attr/colorSurface</item>
+        <item name="android:layout_marginVertical">5dp</item>
+        <item name="cardUseCompatPadding">true</item>
+    </style>
+</resources>
